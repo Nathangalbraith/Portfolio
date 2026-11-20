@@ -1,32 +1,56 @@
-
 # IT Help Desk & Systems Administration Portfolio
 
-## About This Project
+## About This Portfolio
 
-This is a hands-on project designed to develop practical IT Help Desk and Systems Administration skills while building a foundation for a future career in cybersecurity.
+This portfolio showcases hands-on IT Help Desk and Systems Administration projects completed to develop practical technical support skills and build a foundation for a future career in cybersecurity.
 
-The project simulates managing the IT environment of a small business with multiple employees, computers, and technical support requests.
+The projects simulate supporting a small business IT environment, including employee accounts, computer maintenance, technical support requests, network troubleshooting, and basic security practices.
 
-## Project Objectives
+## Projects
 
-The goal is to gain practical experience with:
+### 01 - Identity Lifecycle Management
+- Installed and configured Active Directory Domain Services and DNS.
+- Created and organized employee accounts using Organizational Units.
+- Created department security groups and assigned group memberships.
+- Practiced user account and access management.
 
-1. **Identity Lifecycle Management** - Creating and managing employee accounts, permissions, onboarding, and offboarding using Active Directory.
-2. **Device Lifecycle Management** - Managing company computers, device enrollment, inventory, and security policies using Microsoft Intune.
-3. **Ticket Lifecycle Management** - Creating, prioritizing, troubleshooting, and resolving IT support tickets.
-4. **Technical Troubleshooting** - Diagnosing and resolving common Windows, software, and network problems.
-5. **IT Security & Documentation** - Applying basic security practices, managing permissions, and documenting incidents.
+### 02 - Device Lifecycle Management
+- Created a hardware and software inventory of a Windows 11 computer.
+- Reviewed Windows updates and device drivers.
+- Checked Device Manager, startup applications, and system performance.
+- Reviewed Windows Security and firewall settings.
+- Performed basic network connectivity and DNS tests.
+
+### 03 - Ticket Lifecycle Management
+- Created and managed simulated IT support tickets using GitHub Issues.
+- Practiced prioritizing and resolving common support requests.
+- Documented troubleshooting steps and ticket resolutions.
+- Completed examples involving account lockouts, DNS connectivity, software issues, and password resets.
+
+### 04 - Technical Troubleshooting
+- Performed network connectivity tests between Windows Server systems.
+- Used PowerShell and ping to troubleshoot network communication.
+- Ran Windows System File Checker (SFC) to check system file integrity.
+- Documented troubleshooting results.
+
+### 05 - IT Security
+- Reviewed Active Directory security group memberships.
+- Checked Windows Security and antivirus protection status.
+- Verified Windows Defender Firewall settings.
+- Practiced basic access control and security monitoring.
 
 ## Tools & Technologies
 
 - Windows 11
-- Windows Server
+- Windows Server 2022
 - Active Directory
-- Microsoft Intune
-- ServiceNow / Zendesk
+- Active Directory Domain Services (AD DS)
+- DNS
 - PowerShell
 - Command Prompt
-- GitHub
+- Windows Defender Firewall
+- Windows Security
+- GitHub Issues
 
 ## Project Structure
 
@@ -34,15 +58,17 @@ The goal is to gain practical experience with:
 - 02 - Device Lifecycle Management
 - 03 - Ticket Lifecycle Management
 - 04 - Technical Troubleshooting
-- 05 - IT Security & Documentation
+- 05 - IT Security
 
 ## Project Status
 
-Currently in progress.
+**Completed**
 
-More documentation, screenshots, configurations, and practical exercises will be added as each section is completed.
+All five project sections have been completed and include supporting documentation and screenshots.
+
+These projects include hands-on lab exercises and simulated IT support scenarios for educational and portfolio purposes.
 
 ## Learning Goals
 
-Develop hands on IT support and systems administration skills that can be applied to an entry level IT Help Desk position and future cybersecurity roles.
+Develop practical IT support, systems administration, troubleshooting, documentation, and security skills that can be applied to an entry-level IT Help Desk position and future cybersecurity roles.
 
