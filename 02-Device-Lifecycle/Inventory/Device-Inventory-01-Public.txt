@@ -1,0 +1,41 @@
+DEVICE INVENTORY RECORD
+
+Record Type: Initial Hardware and Software Inventory
+Date: November 9, 2026
+
+ENVIRONMENT
+Device Type: Personal Windows 11 Computer
+Purpose: IT Help Desk Practice Lab
+
+DEVICE INFORMATION
+Operating System: Windows 11 Home
+Windows Version: 10.0.26200
+Build Number: 26200
+Architecture: 64-bit
+
+PROCESSOR
+Model: AMD Ryzen 5 7500X3D
+CPU Cores: 6
+Logical Processors: 12
+
+MEMORY
+Installed RAM: 16 GB
+
+STORAGE
+Main Drive: C:
+File System: NTFS
+Total Capacity: Approximately 1 TB
+Available Space: Approximately 730 GB
+Used Space: Approximately 293 GB
+
+GRAPHICS
+Integrated Graphics: AMD Radeon Graphics
+Dedicated Graphics: NVIDIA GeForce RTX 5060 Ti
+
+INVENTORY PURPOSE
+This inventory documents the computer's hardware,
+operating system, storage, and graphics information.
+Maintaining an inventory helps IT support technicians
+identify hardware and assist with troubleshooting.
+
+INVENTORY STATUS: Initial inventory completed.

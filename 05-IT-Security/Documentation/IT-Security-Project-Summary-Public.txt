@@ -1,0 +1,38 @@
+IT Security Project Summary
+
+Project: IT Help Desk Security
+
+Project Overview:
+
+This project focused on practicing basic IT security tasks and reviewing security settings commonly used in an IT support environment.
+
+Tasks Completed:
+
+1. Active Directory Access Management
+Reviewed Active Directory security group membership to verify that employees were assigned to the appropriate department groups.
+
+2. Antivirus Protection
+Reviewed Windows Security settings and confirmed that real-time protection was enabled and no current threats were reported.
+
+3. Windows Firewall
+Reviewed Windows Defender Firewall and confirmed that the Domain, Private, and Public firewall profiles were enabled.
+
+Tools Used:
+
+- Active Directory Users and Computers
+- Windows Security
+- Windows Defender Firewall
+- Windows Server 2022
+- Windows 11
+
+Skills Practiced:
+
+- Active Directory group management
+- Basic access control
+- Antivirus status checks
+- Firewall configuration review
+- Basic security monitoring
+
+Project Outcome:
+
+Completed a basic security review using Active Directory and Windows security tools. Practiced reviewing account permissions, antivirus protection, and firewall settings.
