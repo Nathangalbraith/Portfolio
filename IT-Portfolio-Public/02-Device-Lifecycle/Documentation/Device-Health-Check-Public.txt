@@ -1,0 +1,48 @@
+Device Health Check
+
+Project: Windows 11 Device Lifecycle Lab
+Asset ID: LAB-WS-001
+Environment: Personal Windows 11 Computer
+
+Purpose:
+
+This document records a basic device health and maintenance inspection performed on a Windows 11 computer. The goal was to practice common IT Help Desk tasks involving device inventory, monitoring, updates, security, and network troubleshooting.
+
+1. Windows Updates
+- Windows reported that it was up to date.
+- Reviewed Windows Update history.
+- Identified five successful and two failed driver update entries.
+
+2. Device Manager
+- Inspected display adapters.
+- Inspected network adapters.
+- Inspected sound devices.
+- Inspected disk drives.
+- Inspected USB controllers.
+- No warning symbols were found.
+
+3. Security
+- No current threats detected.
+- Real-time protection enabled.
+- All three Windows Firewall profiles enabled.
+
+4. Startup Applications
+- Reviewed 20 startup applications.
+- Identified two applications with high startup impact.
+- No applications were disabled.
+
+5. Performance Monitoring
+- CPU usage: 1–8% while idle.
+- Memory usage: 62%.
+- Disk activity: 0% while idle.
+
+6. Network Troubleshooting
+- Ethernet connection reported 1 Gbps.
+- External connectivity test successful.
+- DNS resolution successful.
+- Gateway ping test: 0% packet loss.
+- External ping test: 0% packet loss.
+
+Conclusion:
+
+The workstation passed the basic health checks performed during this project. No major hardware, security, or network problems were identified during the inspection. These results represent the device's condition at the time of testing.

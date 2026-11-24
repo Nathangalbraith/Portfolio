@@ -1,0 +1,52 @@
+Device Lifecycle Project Summary
+
+Project: Windows 11 Device Lifecycle Lab
+Asset ID: LAB-WS-001
+Environment: Personal Windows 11 Computer
+
+Project Overview:
+
+The purpose of this project was to practice basic IT Help Desk responsibilities involving computer inventory, device health, maintenance, security, and troubleshooting.
+
+Tasks Completed:
+
+1. Device Inventory
+Collected information about the computer's hardware, operating system, storage, memory, and graphics.
+
+2. Windows Maintenance
+Reviewed Windows Update status, update history, and installed device drivers.
+
+3. Hardware Inspection
+Used Device Manager to inspect hardware components and check for driver or device warnings.
+
+4. Security Inspection
+Reviewed Windows Security, antivirus protection, and Windows Firewall settings.
+
+5. Performance Monitoring
+Used Task Manager to inspect CPU, memory, disk, and network activity.
+
+6. Network Troubleshooting
+Used PowerShell commands to inspect network adapters, IP configuration, DNS resolution, gateway connectivity, and external connectivity.
+
+Tools Used:
+
+- Windows 11 Settings
+- Task Manager
+- Device Manager
+- Windows Security
+- PowerShell
+- Windows networking commands
+
+Skills Practiced:
+
+- Computer hardware inventory
+- Windows maintenance and updates
+- Basic security inspections
+- Performance monitoring
+- Network troubleshooting
+- PowerShell command usage
+- Technical documentation
+
+Project Outcome:
+
+This project provided hands-on experience with common IT Help Desk responsibilities. The workstation completed the basic inspections and connectivity tests without major issues being identified.
