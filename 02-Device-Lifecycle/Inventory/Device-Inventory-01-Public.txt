@@ -1,4 +1,4 @@
-DEVICE INVENTORY RECORD
+DEVICE INVENTORY RECORD 
 
 Record Type: Initial Hardware and Software Inventory
 Date: November 9, 2026
