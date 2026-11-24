@@ -1,4 +1,4 @@
-Network Connectivity Test
+Network Connectivity Test 
 
 Objective:
 Verify network connectivity between two Windows Server machines.
