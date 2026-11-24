@@ -70,5 +70,5 @@ These projects include hands-on lab exercises and simulated IT support scenarios
 
 ## Learning Goals
 
-Develop practical IT support, systems administration, troubleshooting, documentation, and security skills that can be applied to an entry-level IT Help Desk position and future cybersecurity roles.
+Develop practical skills in IT support, systems administration, networking, troubleshooting, documentation, and cybersecurity. Build hands-on experience with industry-relevant tools and technologies while developing a strong foundation for a career in information technology.
 
