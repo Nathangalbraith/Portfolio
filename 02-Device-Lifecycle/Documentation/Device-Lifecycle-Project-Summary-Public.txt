@@ -1,4 +1,4 @@
-Device Lifecycle Project Summary
+Device Lifecycle Project Summary 
 
 Project: Windows 11 Device Lifecycle Lab
 Asset ID: LAB-WS-001
