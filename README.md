@@ -1,8 +1,8 @@
-# IT Help Desk & Systems Administration Portfolio
+# IT Projects & Systems Administration Portfolio
 
 ## About This Portfolio
 
-This portfolio showcases hands-on IT Help Desk and Systems Administration projects completed to develop practical technical support skills and build a foundation for a future career in cybersecurity.
+This portfolio showcases hands-on IT projects completed to develop practical technical skills across systems administration, networking, cybersecurity, troubleshooting, and IT support. Each project demonstrates real-world technical tasks, problem-solving, and experience working with various IT tools and technologies.
 
 The projects simulate supporting a small business IT environment, including employee accounts, computer maintenance, technical support requests, network troubleshooting, and basic security practices.
 
